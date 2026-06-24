@@ -1,0 +1,1 @@
+# AtomSpace-Fundamental-Bash
